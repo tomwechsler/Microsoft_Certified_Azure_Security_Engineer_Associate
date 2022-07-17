@@ -263,29 +263,26 @@ https://docs.microsoft.com/en-us/azure/cosmos-db/database-security
 
 https://docs.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-managed-vnet
 
+https://docs.microsoft.com/en-us/azure/key-vault/general/security-features
 
+https://docs.microsoft.com/en-us/azure/key-vault/general/assign-access-policy
 
+https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/
 
+https://docs.microsoft.com/en-us/azure/key-vault/certificates/tutorial-import-certificate
 
+https://docs.microsoft.com/en-us/azure/key-vault/secrets/about-secrets
 
+https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/
 
+https://docs.microsoft.com/en-us/azure/key-vault/keys/about-keys
 
+https://docs.microsoft.com/en-us/azure/key-vault/secrets/tutorial-rotation-dual
 
+https://docs.microsoft.com/en-us/azure/key-vault/certificates/tutorial-rotate-certificates
 
+https://docs.microsoft.com/en-us/azure/key-vault/secrets/tutorial-rotation
 
+https://docs.microsoft.com/en-us/azure/key-vault/general/backup
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://docs.microsoft.com/en-us/azure/key-vault/general/security-features
