@@ -133,18 +133,53 @@ https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security
 
 https://docs.microsoft.com/en-us/azure/azure-functions/configure-networking-how-to
 
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
 
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources
 
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-portal
 
+https://docs.microsoft.com/en-us/azure/storage/common/storage-private-endpoints
 
+https://docs.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal
 
+https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview
 
+https://docs.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal
 
+https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview
 
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/supported-machines-endpoint-solutions-clouds-containers
 
+https://docs.microsoft.com/en-us/azure/security/fundamentals/management
 
+https://docs.microsoft.com/en-us/azure/security/fundamentals/antimalware
 
+https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/
 
+https://docs.microsoft.com/en-us/azure/automation/update-management/manage-updates-for-vm
+
+https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/iaas
+
+https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/
+
+https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/
+
+https://docs.microsoft.com/en-us/azure/architecture/serverless-quest/functions-app-security
+
+https://docs.microsoft.com/en-us/azure/app-service/overview-security
+
+https://docs.microsoft.com/en-us/azure/app-service/overview-authentication-authorization
+
+https://docs.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime
+
+https://docs.microsoft.com/en-us/azure/architecture/serverless-quest/functions-app-security
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-overview
+
+https://docs.microsoft.com/en-us/learn/modules/protect-data-transit-rest/
 
 **Manage security operations:**
 
