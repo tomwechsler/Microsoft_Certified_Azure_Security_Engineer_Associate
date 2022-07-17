@@ -85,6 +85,67 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignment
 
 **Implement platform protection:**
 
+https://docs.microsoft.com/en-us/azure/vpn-gateway/design
+
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/
+
+https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/
+
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group
+
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic
+
+https://docs.microsoft.com/en-us/azure/virtual-network/application-security-groups
+
+https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/
+
+https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/
+
+https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/
+
+https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal
+
+https://docs.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal
+
+https://docs.microsoft.com/en-us/azure/firewall-manager/secure-cloud-network
+
+https://docs.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door
+
+https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/
+
+https://docs.microsoft.com/en-us/azure/frontdoor/create-front-door-portal
+
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/firewall-configure
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security
+
+https://docs.microsoft.com/en-us/azure/azure-functions/configure-networking-how-to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Manage security operations:**
 
 **Secure data and applications:**
