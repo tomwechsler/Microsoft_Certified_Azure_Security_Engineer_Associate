@@ -183,4 +183,36 @@ https://docs.microsoft.com/en-us/learn/modules/protect-data-transit-rest/
 
 **Manage security operations:**
 
+https://docs.microsoft.com/en-us/azure/governance/policy/overview
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/custom-security-policies
+
+https://docs.microsoft.com/en-us/azure/governance/policy/concepts/initiative-definition-structure
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/platform-logs-overview
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-servers-introduction
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/deploy-vulnerability-assessment-vm
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/azure-defender-for-sql
+
+https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-activity-log
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-metric
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings?tabs=portal
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/log-audit
+
+https://docs.microsoft.com/en-us/azure/sentinel/customize-alert-details
+
+https://docs.microsoft.com/en-us/azure/sentinel/connect-data-sources
+
+https://docs.microsoft.com/en-us/azure/sentinel/investigate-cases
+
 **Secure data and applications:**
